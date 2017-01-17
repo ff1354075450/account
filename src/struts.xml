@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <!--允许异步请求，只有这样才能够使用!的的方式直接访问action中的方法   struts并不推荐，建议使用通配符的方式，-->
+    <!--<package name="app" extends="struts-default" namespace="/account">-->
+        <!--<action name="temp" class="com.test.ApiTest"/>-->
+    <!--</package>-->
+    <!--<constant name="struts.enable.DynamicMethodInvocation" value="true"/>-->
+
+    <package name="app" extends="struts-default" namespace="/account">
+<!--默认action的使用-->
+        <default-action-ref name="index"></default-action-ref>
+        <action name="index">
+            <result>/error.jsp</result>
+        </action>
+<!--通配符的使用-->
+        <action name="test_*" method="{1}" class="com.test.ApiTest">
+            <result>/index.jsp</result>
+        </action>
+    </package>
+
+    <!--默认编码-->
+    <constant name="struts.i18n.encoding" value="utf-8"/>
+
+    <!--修改默认后缀为html，原来是.action或者是没有后缀-->
+    <!--这个参数也可以在web.xml中进行配置，init-param,name和value和此处一样-->
+    <constant name="struts.action.extension" value="html,do,action"></constant>
+</struts>

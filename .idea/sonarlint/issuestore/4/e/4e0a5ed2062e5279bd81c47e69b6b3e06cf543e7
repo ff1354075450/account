@@ -1,0 +1,12 @@
+
+@squid:S1068"+Remove this unused "request" private field.(íÑä™
+Esquid:S1068"+Remove this unused "session" private field.(áõ¢Ğüÿÿÿÿ
+ksquid:S1450"VRemove the "request" field and declare it as a local variable in the relevant methods.(íÑä™
+psquid:S1450"VRemove the "session" field and declare it as a local variable in the relevant methods.(áõ¢Ğüÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ƒÔ™
+Psquid:UselessImportCheck".Remove this unused import 'java.util.Objects'.(¼¸õ›
+Rsquid:UselessImportCheck"0Remove this unused import 'java.io.PipedWriter'.(«ªÈ
+>squid:S1948")Make "request" transient or serializable.(íÑä™
+?squid:S1948"*Make "response" transient or serializable.(ï²ÙÕ
+Csquid:S1948")Make "session" transient or serializable.(áõ¢Ğüÿÿÿÿ
