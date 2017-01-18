@@ -20,6 +20,9 @@
         <action name="test_*" method="{1}" class="com.test.ApiTest">
             <result>/index.jsp</result>
         </action>
+
+        <action name="worker_*" method="{1}" class="com.test.AppApi.workerApi"></action>
+
     </package>
 
     <!--默认编码-->

@@ -7,7 +7,9 @@
           <element id="module-output" name="account" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="asm" />
+          <element id="file-copy" path="$APPLICATION_HOME_DIR$/redist/annotations-java8.jar" />
+          <element id="library" level="project" name="mst" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/junit-4.12.jar" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="account/web/Web" />

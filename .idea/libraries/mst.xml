@@ -1,17 +1,25 @@
 <component name="libraryTable">
-  <library name="asm">
+  <library name="mst">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/asm.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/asm-commons.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/asm-tree.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/asm.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-io.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-lang.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/freemarker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/hamcrest-core-1.3.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/javassist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.3-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/ognl.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/struts2-core.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/xwork-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/ezmorph-1.0.6.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

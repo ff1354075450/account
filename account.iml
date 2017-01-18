@@ -28,18 +28,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="asm" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 9.0.0.M15" level="application_server_libraries" />
-    <orderEntry type="library" name="mysql-connector-java-5.1.7-bin" level="project" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$APPLICATION_HOME_DIR$/redist/annotations-java8.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="library" name="json-lib-2.3-jdk15" level="project" />
+    <orderEntry type="library" exported="" name="mst" level="project" />
+    <orderEntry type="library" name="fastjson-1.2.2" level="project" />
   </component>
 </module>
