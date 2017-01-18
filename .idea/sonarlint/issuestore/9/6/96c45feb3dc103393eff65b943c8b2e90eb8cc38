@@ -1,0 +1,5 @@
+
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ÿîß&
+psquid:UselessImportCheck"BRemove this unused import 'com.opensymphony.xwork2.ActionSupport'.(„³êÓþÿÿÿÿ8Õ£ã…›+
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îçòûùÿÿÿÿ
+hsquid:S1192"GDefine a constant instead of duplicating this literal "worker" 4 times.(’ÊúÖûÿÿÿÿ8ßŽ­‰›+

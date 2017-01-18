@@ -1,0 +1,21 @@
+
+‚squid:UselessImportCheck"[Remove this unused import 'com.sun.xml.internal.ws.api.pipe.FiberContextSwitchInterceptor'.(øùõÜøÿÿÿÿ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ü­ö’
+Vsquid:S1191"<Replace this usage of Sun classes by ones from the Java API.(øùõÜøÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ŒïÍ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¢÷»
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¿óè´úÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÉÊæ­øÿÿÿÿ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(üÿÜˆ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¹×•Â
+esquid:UselessImportCheck"<Remove this unused import 'com.alibaba.fastjson.JSONObject'.(äıµ8­°Š›+
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹…µË
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÃÈ¸À
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(„‹ë¹8êëİ†›+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8èüä†›+
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(Úº¢Øøÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ
