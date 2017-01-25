@@ -1,26 +1,32 @@
 
-hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÿªğÑ
-Ysquid:S2147"DCombine this catch with the one at line 23, which has the same body.(É®£
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥¡Ëıÿÿÿÿÿ
-Tsquid:S1118":Add a private constructor to hide the implicit public one.(¨†Ö˜úÿÿÿÿ
-:squid:S1166"%Either log or rethrow this exception.(É®£
-:squid:S1166"%Either log or rethrow this exception.(ıàÑÎ
-msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(áŠÌˆøÿÿÿÿ
-psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿªğÑ
-:squid:S1166"%Either log or rethrow this exception.(É®£
-usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(áŠÌˆøÿÿÿÿ
 =squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
 msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¥¡Ëıÿÿÿÿÿ
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ
-:squid:S2068" Remove this hard-coded password.(¢êÀĞÿÿÿÿÿ
-9squid:S2131"Use "Integer.toString" instead.(£éğÈùÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-Asquid:S1166"%Either log or rethrow this exception.(É®£8ÂºÌ†›+
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥¡Ëıÿÿÿÿÿ
 =squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
 4squid:S2131"Use "Integer.toString" instead.(´ƒ°Ÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(ıàÑÎ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+9squid:S2131"Use "Integer.toString" instead.(£éğÈùÿÿÿÿ
 :squid:S1166"%Either log or rethrow this exception.(É®£
 =squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂºÌ†›+
-msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¢êÀĞÿÿÿÿÿ
 :squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¢êÀĞÿÿÿÿÿ
 usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢êÀĞÿÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Ysquid:S2147"DCombine this catch with the one at line 23, which has the same body.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S2068" Remove this hard-coded password.(¢êÀĞÿÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(É®£
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÿªğÑ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(áŠÌˆøÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ
+:squid:S1166"%Either log or rethrow this exception.(É®£
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿªğÑ
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(áŠÌˆøÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(¨†Ö˜úÿÿÿÿ

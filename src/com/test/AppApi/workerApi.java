@@ -31,6 +31,7 @@ public class workerApi extends BaseActionSupport {
         String worker = request.getParameter("worker");
         String boss = request.getParameter("boss");
         float worklen =Float.parseFloat(request.getParameter("worklen"));
+
         if(Workdao.update(worker,boss,worklen)){
             outSuccess();
         }else {
@@ -39,13 +40,28 @@ public class workerApi extends BaseActionSupport {
     }
 
     /**
-     * 查询指定日期的账目
+     * 查询指定用户的账目
      */
-
     public void query(){
         String worker = request.getParameter("worker");
         String boss = request.getParameter("boss");
         JSONArray result = Workdao.query(worker,boss);
+        if(result != null){
+            JSONObject jsonObject = new JSONObject();
+            jsonObject.put("result",1);
+            jsonObject.put("worker",result);
+            outPrint(jsonObject.toJSONString());
+        }else {
+            outFailed();
+        }
+    }
+
+    /**
+     * 查询所有用户账目
+     * 返回，用户名，种类，工作量
+     */
+    public void queryall(){
+        JSONArray result = Workdao.queryWorkersSum();
         if(result != null){
             JSONObject jsonObject = new JSONObject();
             jsonObject.put("result",1);

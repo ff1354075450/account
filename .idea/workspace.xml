@@ -1,29 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Account" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/account.sql" line="47" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="adb57356-f1d5-4ddb-a92e-af22c04910c2" name="Default" comment="web">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/junit-4.12.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/test/AppApi/workerApi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/test/common/BaseActionSupport.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/json_lib_2_3_jdk15.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_7_bin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.3-jdk15.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/account_war_exploded/WEB-INF/classes/com/test/ApiTest.class" afterPath="$PROJECT_DIR$/out/artifacts/account_war_exploded/WEB-INF/classes/com/test/ApiTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/account/com/test/ApiTest.class" afterPath="$PROJECT_DIR$/out/production/account/com/test/ApiTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Account.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/test/AppApi/UserApi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/test/db/person/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/META-INF/MANIFEST.MF" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e0a5ed2062e5279bd81c47e69b6b3e06cf543e7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b89e9cd19f4932db64e211028f9e415df4c58f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96c45feb3dc103393eff65b943c8b2e90eb8cc38" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9a893a6bcbfbdbf2512a960317bef87e2ef5622" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba35ad0cd368ff99bbdf8350b1cc404d9f76399a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be0b072416b03ecd6214316d29042a1a590a911f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca72fdb825cf4ebad592dbdaf3a05ed2f3ea13b1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f709e4c4889fe73dd79267b48cd4493458727c39" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/~$api接口.docx" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/account_war_exploded/WEB-INF/classes/com/test/AppApi/workerApi.class" afterPath="$PROJECT_DIR$/out/artifacts/account_war_exploded/WEB-INF/classes/com/test/AppApi/workerApi.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/account_war_exploded/WEB-INF/classes/com/test/db/person/Workdao.class" afterPath="$PROJECT_DIR$/out/artifacts/account_war_exploded/WEB-INF/classes/com/test/db/person/Workdao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/account_war_exploded/WEB-INF/classes/test/com/test/db/person/workdaoTest.class" afterPath="$PROJECT_DIR$/out/artifacts/account_war_exploded/WEB-INF/classes/test/com/test/db/person/workdaoTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/account_war_exploded/WEB-INF/lib/annotations-java8.jar" afterPath="$PROJECT_DIR$/out/artifacts/account_war_exploded/WEB-INF/lib/annotations-java8.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/account/com/test/AppApi/workerApi.class" afterPath="$PROJECT_DIR$/out/production/account/com/test/AppApi/workerApi.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/account/com/test/db/person/Workdao.class" afterPath="$PROJECT_DIR$/out/production/account/com/test/db/person/Workdao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/account/test/com/test/db/person/workdaoTest.class" afterPath="$PROJECT_DIR$/out/production/account/test/com/test/db/person/workdaoTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/account_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/account_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account.iml" afterPath="$PROJECT_DIR$/account.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account.sql" afterPath="$PROJECT_DIR$/account.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/account_war_exploded/WEB-INF/classes/struts.xml" afterPath="$PROJECT_DIR$/out/artifacts/account_war_exploded/WEB-INF/classes/struts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/account/struts.xml" afterPath="$PROJECT_DIR$/out/production/account/struts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/struts.xml" afterPath="$PROJECT_DIR$/src/struts.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/asm.xml" afterPath="$PROJECT_DIR$/.idea/libraries/mst.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/test/db/person/dao.java" afterPath="$PROJECT_DIR$/src/com/test/db/person/Workdao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/test/AppApi/workerApi.java" afterPath="$PROJECT_DIR$/src/com/test/AppApi/workerApi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/test/db/person/Workdao.java" afterPath="$PROJECT_DIR$/src/com/test/db/person/Workdao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/com/test/db/person/workdaoTest.java" afterPath="$PROJECT_DIR$/src/test/com/test/db/person/workdaoTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +69,8 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="308">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -69,52 +82,77 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+            <state relative-caret-position="506">
+              <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Workdao.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/test/db/person/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <marker date="1484741476128" expanded="true" signature="939:982" ph="INSERT INTO user... " />
+                <marker date="1484741476128" expanded="true" signature="1377:1415" ph="SELECT passw... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Workdao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/test/db/person/Workdao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="145" column="44" lean-forward="false" selection-start-line="145" selection-start-column="44" selection-end-line="145" selection-end-column="44" />
+            <state relative-caret-position="3234">
+              <caret line="152" column="34" lean-forward="false" selection-start-line="152" selection-start-column="34" selection-end-line="152" selection-end-column="34" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1484738513185" expanded="true" signature="1038:1086" ph="insert into work... " />
-                <marker date="1484738513185" expanded="true" signature="2178:2193" ph="UPDATE work " />
-                <marker date="1484738513185" expanded="true" signature="2178:2194" ph="UPDATE work " />
-                <marker date="1484738513185" expanded="true" signature="2178:2232" ph="UPDATE work " />
-                <marker date="1484738513185" expanded="true" signature="2707:2740" ph="SELECT * fro... work" />
-                <marker date="1484738513185" expanded="true" signature="2707:2751" ph="SELECT * fro... work" />
-                <marker date="1484738513185" expanded="true" signature="3279:3324" ph="SELECT date " />
-                <marker date="1484738513185" expanded="true" signature="3279:3328" ph="SELECT date " />
-                <marker date="1484738513185" expanded="true" signature="3279:3332" ph="SELECT date " />
+                <marker date="1485245503415" expanded="true" signature="1038:1086" ph="insert into work... " />
+                <marker date="1485245503415" expanded="true" signature="2178:2193" ph="UPDATE work " />
+                <marker date="1485245503415" expanded="true" signature="2178:2194" ph="UPDATE work " />
+                <marker date="1485245503415" expanded="true" signature="2178:2232" ph="UPDATE work " />
+                <marker date="1485245503415" expanded="true" signature="2696:2742" ph="UPDATE work " />
+                <marker date="1485245503415" expanded="true" signature="3214:3247" ph="SELECT * fro... work" />
+                <marker date="1485245503415" expanded="true" signature="3214:3258" ph="SELECT * fro... work" />
+                <marker date="1485245503415" expanded="true" signature="3787:3832" ph="SELECT date " />
+                <marker date="1485245503415" expanded="true" signature="3787:3836" ph="SELECT date " />
+                <marker date="1485245503415" expanded="true" signature="3787:3840" ph="SELECT date " />
+                <marker date="1485245503415" expanded="true" signature="4340:4409" ph="select worke... work" />
+                <marker date="1485245503415" expanded="true" signature="4779:4825" ph="select sum f... work" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApiTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/test/ApiTest.java">
+      <file leaf-file-name="UserApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/test/AppApi/UserApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="352">
+              <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workerApi.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="account.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="72" lean-forward="false" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+              <folding>
+                <marker date="1485229269737" expanded="true" signature="52:304" ph="CREATE TABLE... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workerApi.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/test/AppApi/workerApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,15 +160,9 @@
       <file leaf-file-name="BaseActionSupport.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/test/common/BaseActionSupport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="65" column="31" lean-forward="false" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1813#1814#0" expanded="true" />
-                <element signature="e#1855#1856#0" expanded="true" />
-                <element signature="e#1885#1886#0" expanded="true" />
-                <element signature="e#1927#1928#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="550">
+              <caret line="37" column="59" lean-forward="false" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -138,18 +170,8 @@
       <file leaf-file-name="workdaoTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/com/test/db/person/workdaoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/error.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="1518">
+              <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -187,12 +209,14 @@
         <option value="$PROJECT_DIR$/src/com/test/ApiTest.java" />
         <option value="$PROJECT_DIR$/src/com/test/db/person/dao.java" />
         <option value="$PROJECT_DIR$/src/test/com/test/db/person/daoTest.java" />
-        <option value="$PROJECT_DIR$/account.sql" />
         <option value="$PROJECT_DIR$/src/com/test/common/BaseActionSupport.java" />
         <option value="$PROJECT_DIR$/src/struts.xml" />
+        <option value="$PROJECT_DIR$/src/com/test/db/person/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/com/test/AppApi/UserApi.java" />
+        <option value="$PROJECT_DIR$/account.sql" />
         <option value="$PROJECT_DIR$/src/test/com/test/db/person/workdaoTest.java" />
-        <option value="$PROJECT_DIR$/src/com/test/AppApi/workerApi.java" />
         <option value="$PROJECT_DIR$/src/com/test/db/person/Workdao.java" />
+        <option value="$PROJECT_DIR$/src/com/test/AppApi/workerApi.java" />
       </list>
     </option>
   </component>
@@ -213,11 +237,13 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -231,6 +257,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Production">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="account">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="account">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -254,7 +311,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -268,33 +325,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="artifacts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -308,94 +343,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="artifacts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="person" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppApi" />
+              <option name="myItemId" value="Account" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -404,12 +365,14 @@
     <property name="nodejs_interpreter_path" value="F:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="F:\Program Files\nodejs\node.exe" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/xwork-core.jar!/" />
-    <property name="settings.editor.selected.configurable" value="plugins.junitgenerator.project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="SONARLINT_ISSUES_SPLIT_PROPORTION" value="0.407909" />
+    <property name="ToolWindowCheckStyle.ShowToolbar" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -433,32 +396,6 @@
       <option name="PACKAGE_NAME" value="test.com.test.db.person" />
       <option name="MAIN_CLASS_NAME" value="test.com.test.db.person.workdaoTest" />
       <option name="METHOD_NAME" value="testAddworker" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="workdaoTest.testQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="test.com.test.db.person.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="account" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test.com.test.db.person" />
-      <option name="MAIN_CLASS_NAME" value="test.com.test.db.person.workdaoTest" />
-      <option name="METHOD_NAME" value="testQuery" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -537,6 +474,32 @@
       <option name="PACKAGE_NAME" value="test.com.test.db.person" />
       <option name="MAIN_CLASS_NAME" value="test.com.test.db.person.workdaoTest" />
       <option name="METHOD_NAME" value="testQueryLastTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="workdaoTest.querysum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.com.test.db.person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="account" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.com.test.db.person" />
+      <option name="MAIN_CLASS_NAME" value="test.com.test.db.person.workdaoTest" />
+      <option name="METHOD_NAME" value="querysum" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1100,18 +1063,18 @@
       <item index="0" class="java.lang.String" itemvalue="Application.temp" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.tom" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.workdaoTest.testAddworker" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.workdaoTest.testQuery" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.workdaoTest.testUpdate" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.workdaoTest" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.workdaoTest.testQueryLastTime" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.workdaoTest.testUpdate" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.workdaoTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.workdaoTest.testQueryLastTime" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.workdaoTest.querysum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.workdaoTest.testQueryLastTime" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.workdaoTest.testUpdate" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.workdaoTest.testAddworker" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.workdaoTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.workdaoTest.testQuery" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.workdaoTest.querysum" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.workdaoTest.testQueryLastTime" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.workdaoTest.testUpdate" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.workdaoTest.testAddworker" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.workdaoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1143,6 +1106,19 @@
       <workItem from="1484703394656" duration="1885000" />
       <workItem from="1484705950753" duration="12558000" />
       <workItem from="1484728524289" duration="7568000" />
+      <workItem from="1484740166215" duration="2040000" />
+      <workItem from="1484790219457" duration="47000" />
+      <workItem from="1484793383587" duration="2257000" />
+      <workItem from="1484804912828" duration="609000" />
+      <workItem from="1484808902266" duration="675000" />
+      <workItem from="1484819136112" duration="30000" />
+      <workItem from="1485223310624" duration="284000" />
+      <workItem from="1485223663248" duration="5177000" />
+      <workItem from="1485244985149" duration="1863000" />
+      <workItem from="1485315578249" duration="5926000" />
+      <workItem from="1485331324994" duration="24000" />
+      <workItem from="1485334644520" duration="166000" />
+      <workItem from="1485334855581" duration="673000" />
     </task>
     <task id="LOCAL-00001" summary="web">
       <created>1484621329860</created>
@@ -1155,26 +1131,26 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="workdaoTest_testAddworker - 2017.01.18 at 14h 37m 55s.xml">
-      <configuration name="workdaoTest.testAddworker" configurationId="JUnit" />
+    <history-entry file="workdaoTest_querysum - 2017.01.24 at 11h 32m 09s.xml">
+      <configuration name="workdaoTest.querysum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="workdaoTest_testAddworker - 2017.01.18 at 14h 39m 31s.xml">
-      <configuration name="workdaoTest.testAddworker" configurationId="JUnit" />
+    <history-entry file="workdaoTest_querysum - 2017.01.24 at 11h 43m 55s.xml">
+      <configuration name="workdaoTest.querysum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="workdaoTest_testAddworker - 2017.01.18 at 14h 40m 44s.xml">
-      <configuration name="workdaoTest.testAddworker" configurationId="JUnit" />
+    <history-entry file="workdaoTest_querysum - 2017.01.24 at 11h 44m 37s.xml">
+      <configuration name="workdaoTest.querysum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="workdaoTest_testAddworker - 2017.01.18 at 14h 44m 28s.xml">
-      <configuration name="workdaoTest.testAddworker" configurationId="JUnit" />
+    <history-entry file="workdaoTest_querysum - 2017.01.24 at 11h 45m 31s.xml">
+      <configuration name="workdaoTest.querysum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="workdaoTest_testQueryLastTime - 2017.01.18 at 17h 12m 32s.xml">
-      <configuration name="workdaoTest.testQueryLastTime" configurationId="JUnit" />
+    <history-entry file="workdaoTest_querysum - 2017.01.24 at 11h 45m 40s.xml">
+      <configuration name="workdaoTest.querysum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="workdaoTest_testUpdate - 2017.01.18 at 14h 35m 55s.xml">
-      <configuration name="workdaoTest.testUpdate" configurationId="JUnit" />
+    <history-entry file="workdaoTest_querysum - 2017.01.24 at 11h 46m 10s.xml">
+      <configuration name="workdaoTest.querysum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="workdaoTest_testUpdate - 2017.01.18 at 14h 40m 59s.xml">
-      <configuration name="workdaoTest.testUpdate" configurationId="JUnit" />
+    <history-entry file="workdaoTest_querysum - 2017.01.24 at 11h 46m 46s.xml">
+      <configuration name="workdaoTest.querysum" configurationId="JUnit" />
     </history-entry>
     <history-entry file="workdaoTest_testUpdate - 2017.01.18 at 14h 44m 33s.xml">
       <configuration name="workdaoTest.testUpdate" configurationId="JUnit" />
@@ -1187,10 +1163,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67453000" />
+    <option name="totallyTimeSpent" value="87224000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1213,12 +1189,12 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29658213" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2965368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" x="22" y="368" width="1876" height="304" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4677778" sideWeight="0.496208" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23667377" sideWeight="0.496208" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16204691" sideWeight="0.503792" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16204691" sideWeight="0.503792" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1255,27 +1231,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/error.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/struts2-core.jar!/struts-default.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7810">
-          <caret line="355" column="0" lean-forward="false" selection-start-line="355" selection-start-column="0" selection-end-line="355" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/test/ApiTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1302,7 +1261,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1310,7 +1268,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7810">
           <caret line="355" column="0" lean-forward="true" selection-start-line="355" selection-start-column="0" selection-end-line="355" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1318,7 +1275,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1342,7 +1298,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1350,7 +1305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7942">
           <caret line="361" column="14" lean-forward="false" selection-start-line="361" selection-start-column="14" selection-end-line="361" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1358,7 +1312,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1385,7 +1338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1393,7 +1345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7942">
           <caret line="361" column="14" lean-forward="false" selection-start-line="361" selection-start-column="14" selection-end-line="361" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1401,7 +1352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
           <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1428,7 +1378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1436,7 +1385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7942">
           <caret line="361" column="14" lean-forward="false" selection-start-line="361" selection-start-column="14" selection-end-line="361" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1444,7 +1392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1471,7 +1418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1479,7 +1425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7942">
           <caret line="361" column="14" lean-forward="false" selection-start-line="361" selection-start-column="14" selection-end-line="361" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1487,7 +1432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1511,7 +1455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1519,7 +1462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7942">
           <caret line="361" column="14" lean-forward="true" selection-start-line="361" selection-start-column="14" selection-end-line="361" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1527,7 +1469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1551,7 +1492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1560,14 +1500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1582,7 +1514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1931">
           <caret line="155" column="50" lean-forward="false" selection-start-line="155" selection-start-column="38" selection-end-line="155" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1590,51 +1521,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.3-jdk15.jar!/net/sf/json/JSONArray.class" />
-    <entry file="file://$PROJECT_DIR$/src/com/test/ApiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.2.jar!/com/alibaba/fastjson/JSON.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="537" column="32" lean-forward="false" selection-start-line="537" selection-start-column="20" selection-end-line="537" selection-end-column="32" />
-          <folding>
-            <element signature="e#19792#19793#0" expanded="true" />
-            <element signature="e#19834#19835#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/test/common/BaseActionSupport.java">
+    <entry file="file://$PROJECT_DIR$/src/com/test/AppApi/UserApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="65" column="31" lean-forward="false" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+        <state relative-caret-position="352">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/test/db/person/workdaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/db/person/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1813#1814#0" expanded="true" />
-            <element signature="e#1855#1856#0" expanded="true" />
-            <element signature="e#1885#1886#0" expanded="true" />
-            <element signature="e#1927#1928#0" expanded="true" />
+            <marker date="1484741476128" expanded="true" signature="939:982" ph="INSERT INTO user... " />
+            <marker date="1484741476128" expanded="true" signature="1377:1415" ph="SELECT passw... user" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/account.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        <state relative-caret-position="286">
+          <caret line="13" column="72" lean-forward="false" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
           <folding>
-            <marker date="1484723279847" expanded="true" signature="52:306" ph="CREATE TABLE... user" />
+            <marker date="1485229269737" expanded="true" signature="52:304" ph="CREATE TABLE... user" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1643,46 +1589,46 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        <state relative-caret-position="506">
+          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/test/db/person/workdaoTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/test/db/person/Workdao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+        <state relative-caret-position="3234">
+          <caret line="152" column="34" lean-forward="false" selection-start-line="152" selection-start-column="34" selection-end-line="152" selection-end-column="34" />
+          <folding>
+            <marker date="1485245503415" expanded="true" signature="1038:1086" ph="insert into work... " />
+            <marker date="1485245503415" expanded="true" signature="2178:2193" ph="UPDATE work " />
+            <marker date="1485245503415" expanded="true" signature="2178:2194" ph="UPDATE work " />
+            <marker date="1485245503415" expanded="true" signature="2178:2232" ph="UPDATE work " />
+            <marker date="1485245503415" expanded="true" signature="2696:2742" ph="UPDATE work " />
+            <marker date="1485245503415" expanded="true" signature="3214:3247" ph="SELECT * fro... work" />
+            <marker date="1485245503415" expanded="true" signature="3214:3258" ph="SELECT * fro... work" />
+            <marker date="1485245503415" expanded="true" signature="3787:3832" ph="SELECT date " />
+            <marker date="1485245503415" expanded="true" signature="3787:3836" ph="SELECT date " />
+            <marker date="1485245503415" expanded="true" signature="3787:3840" ph="SELECT date " />
+            <marker date="1485245503415" expanded="true" signature="4340:4409" ph="select worke... work" />
+            <marker date="1485245503415" expanded="true" signature="4779:4825" ph="select sum f... work" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/common/BaseActionSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="37" column="59" lean-forward="false" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/test/AppApi/workerApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/test/db/person/Workdao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="145" column="44" lean-forward="false" selection-start-line="145" selection-start-column="44" selection-end-line="145" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1484738513185" expanded="true" signature="1038:1086" ph="insert into work... " />
-            <marker date="1484738513185" expanded="true" signature="2178:2193" ph="UPDATE work " />
-            <marker date="1484738513185" expanded="true" signature="2178:2194" ph="UPDATE work " />
-            <marker date="1484738513185" expanded="true" signature="2178:2232" ph="UPDATE work " />
-            <marker date="1484738513185" expanded="true" signature="2707:2740" ph="SELECT * fro... work" />
-            <marker date="1484738513185" expanded="true" signature="2707:2751" ph="SELECT * fro... work" />
-            <marker date="1484738513185" expanded="true" signature="3279:3324" ph="SELECT date " />
-            <marker date="1484738513185" expanded="true" signature="3279:3328" ph="SELECT date " />
-            <marker date="1484738513185" expanded="true" signature="3279:3332" ph="SELECT date " />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1692,7 +1638,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>account:war exploded</last-edited>
+          <last-edited>Account</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1745,6 +1691,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -82,6 +82,25 @@ public class Workdao {
             result=false;
             e.printStackTrace();
         }
+
+        //修改总天数
+        Float sum = querySum(worker,time);
+        sum = sum +workload;
+
+        sql = "UPDATE work SET sum=?WHERE worker=? AND date=?";
+        try {
+            PreparedStatement pstmt = conn.prepareStatement(sql);
+            pstmt.setFloat(1,sum);
+            pstmt.setString(2,worker);
+            pstmt.setString(3,time);
+            pstmt.execute();
+            pstmt.close();
+        } catch (SQLException e) {
+            result=false;
+            e.printStackTrace();
+        }
+
+
         return result;
     }
 
@@ -105,7 +124,7 @@ public class Workdao {
         return result;
     }
 
-    public static String queryLastTime(String worker){
+    private static String queryLastTime(String worker){
 
         String sql = "SELECT date from work where worker=? ORDER BY id DESC ";
         String result = null;
@@ -124,8 +143,42 @@ public class Workdao {
         return result;
     }
 
+    public static JSONArray queryWorkersSum(){
+        JSONArray result=null;
+        String sql = "select worker,sum,workkind from work ORDER BY workkind DESC ,sum DESC ";
+        try {
+            PreparedStatement pstmt = conn.prepareStatement(sql);
+            ResultSet set = pstmt.executeQuery();
+            result = resultSetToJson(set);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return result;
+    }
 
 
+
+    private static Float querySum(String name,String date){
+
+        String sql = "select sum from work where worker=? AND date=?";
+        Float sum= Float.valueOf(0);
+
+        try {
+            PreparedStatement pstmt = conn.prepareStatement(sql);
+            pstmt.setString(1,name);
+            pstmt.setString(2,date);
+            ResultSet set = pstmt.executeQuery();
+            while (set.next()){
+                sum=set.getFloat("sum");
+            }
+            pstmt.close();
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        return sum;
+    }
 
 
     public static  JSONArray resultSetToJson(ResultSet rs) throws SQLException

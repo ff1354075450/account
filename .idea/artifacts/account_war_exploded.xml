@@ -10,6 +10,7 @@
           <element id="file-copy" path="$APPLICATION_HOME_DIR$/redist/annotations-java8.jar" />
           <element id="library" level="project" name="mst" />
           <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/junit-4.12.jar" />
+          <element id="library" level="project" name="fastjson-1.2.2" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="account/web/Web" />

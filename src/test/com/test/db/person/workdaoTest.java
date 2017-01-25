@@ -7,6 +7,7 @@ import com.test.db.person.Workdao;
 import org.junit.Test;
 import org.junit.Before;
 import org.junit.After;
+import sun.rmi.runtime.Log;
 
 /**
  * Workdao Tester.
@@ -70,10 +71,10 @@ public class workdaoTest {
 //TODO: Test goes here... 
     }
 
+
     @Test
-    public void testQueryLastTime() throws Exception{
-        String res = Workdao.queryLastTime("xx");
-        System.out.println(res);
+    public void querysum()throws Exception{
+        System.out.println("sum结果："+Workdao.queryWorkersSum().toString());
     }
 
 } 
